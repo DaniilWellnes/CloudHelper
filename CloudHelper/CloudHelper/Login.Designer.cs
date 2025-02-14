@@ -32,78 +32,78 @@
             System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Login));
             this.gunaElipse1 = new Guna.UI.WinForms.GunaElipse(this.components);
             this.close_app = new Guna.UI.WinForms.GunaButton();
-            this.settings1 = new Guna.UI.WinForms.GunaButton();
             this.panel_settings = new System.Windows.Forms.Panel();
             this.label4 = new System.Windows.Forms.Label();
             this.label5 = new System.Windows.Forms.Label();
-            this.Button_list_loader = new Guna.UI.WinForms.GunaButton();
             this.name_sub = new System.Windows.Forms.Label();
-            this.github = new Guna.UI.WinForms.GunaButton();
-            this.disc = new Guna.UI.WinForms.GunaButton();
             this.author = new System.Windows.Forms.Label();
             this.label_version = new System.Windows.Forms.Label();
-            this.settings = new Guna.UI.WinForms.GunaButton();
-            this.main_gif = new Guna.UI.WinForms.GunaTransfarantPictureBox();
             this.panel_sub = new Guna.UI.WinForms.GunaPanel();
             this.num_days = new Guna.UI.WinForms.GunaLabel();
-            this.pic_sub = new Guna.UI.WinForms.GunaPictureBox();
             this.label_sub_expires_in = new Guna.UI.WinForms.GunaLabel();
             this.panel_last_upd = new Guna.UI.WinForms.GunaPanel();
             this.data_update = new Guna.UI.WinForms.GunaLabel();
-            this.pic_upd = new Guna.UI.WinForms.GunaPictureBox();
             this.gunaLabel1 = new Guna.UI.WinForms.GunaLabel();
             this.panel_ID = new Guna.UI.WinForms.GunaPanel();
             this.your_id = new Guna.UI.WinForms.GunaLabel();
             this.label_your_id = new Guna.UI.WinForms.GunaLabel();
-            this.pic_id = new Guna.UI.WinForms.GunaPictureBox();
-            this.start_load = new Guna.UI.WinForms.GunaButton();
             this.panel_status = new Guna.UI.WinForms.GunaPanel();
-            this.pic_on_update = new Guna.UI.WinForms.GunaPictureBox();
-            this.pic_undetect = new Guna.UI.WinForms.GunaPictureBox();
             this.status_cheat = new Guna.UI.WinForms.GunaLabel();
-            this.pic_detect = new Guna.UI.WinForms.GunaPictureBox();
             this.label_cheat_status = new Guna.UI.WinForms.GunaLabel();
-            this.main_pic = new Guna.UI.WinForms.GunaPictureBox();
             this.user_name = new Guna.UI.WinForms.GunaTextBox();
             this.label1 = new System.Windows.Forms.Label();
             this.user_key = new Guna.UI.WinForms.GunaTextBox();
             this.label3 = new System.Windows.Forms.Label();
             this.Button_register = new Guna.UI.WinForms.GunaButton();
-            this.close_pass = new Guna.UI.WinForms.GunaPictureBox();
-            this.open_pass = new Guna.UI.WinForms.GunaPictureBox();
             this.status = new Guna.UI.WinForms.GunaLabel();
             this.Button_switch_register = new Guna.UI.WinForms.GunaButton();
             this.Button_login = new Guna.UI.WinForms.GunaButton();
             this.label2 = new System.Windows.Forms.Label();
             this.Button_switch_login = new Guna.UI.WinForms.GunaButton();
             this.user_pass = new Guna.UI.WinForms.GunaTextBox();
-            this.close_key = new Guna.UI.WinForms.GunaPictureBox();
-            this.open_key = new Guna.UI.WinForms.GunaPictureBox();
             this.panel1 = new System.Windows.Forms.Panel();
             this.Button_upgrade = new Guna.UI.WinForms.GunaButton();
             this.panel2 = new System.Windows.Forms.Panel();
             this.choose_work = new Guna.UI.WinForms.GunaComboBox();
+            this.pic_id = new Guna.UI.WinForms.GunaPictureBox();
+            this.start_load = new Guna.UI.WinForms.GunaButton();
             this.pic_beta = new Guna.UI.WinForms.GunaPictureBox();
+            this.pic_on_update = new Guna.UI.WinForms.GunaPictureBox();
+            this.pic_undetect = new Guna.UI.WinForms.GunaPictureBox();
+            this.pic_detect = new Guna.UI.WinForms.GunaPictureBox();
+            this.pic_upd = new Guna.UI.WinForms.GunaPictureBox();
+            this.pic_sub = new Guna.UI.WinForms.GunaPictureBox();
+            this.Button_list_loader = new Guna.UI.WinForms.GunaButton();
+            this.github = new Guna.UI.WinForms.GunaButton();
+            this.disc = new Guna.UI.WinForms.GunaButton();
+            this.close_pass = new Guna.UI.WinForms.GunaPictureBox();
+            this.open_pass = new Guna.UI.WinForms.GunaPictureBox();
+            this.open_key = new Guna.UI.WinForms.GunaPictureBox();
+            this.close_key = new Guna.UI.WinForms.GunaPictureBox();
+            this.main_pic = new Guna.UI.WinForms.GunaPictureBox();
+            this.settings1 = new Guna.UI.WinForms.GunaButton();
+            this.settings = new Guna.UI.WinForms.GunaButton();
+            this.main_gif = new Guna.UI.WinForms.GunaTransfarantPictureBox();
             this.panel_settings.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.main_gif)).BeginInit();
             this.panel_sub.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pic_sub)).BeginInit();
             this.panel_last_upd.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pic_upd)).BeginInit();
             this.panel_ID.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pic_id)).BeginInit();
             this.panel_status.SuspendLayout();
+            this.panel1.SuspendLayout();
+            this.panel2.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.pic_id)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pic_beta)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pic_on_update)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pic_undetect)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.pic_detect)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.main_pic)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pic_upd)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pic_sub)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.close_pass)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.open_pass)).BeginInit();
-            ((System.ComponentModel.ISupportInitialize)(this.close_key)).BeginInit();
             ((System.ComponentModel.ISupportInitialize)(this.open_key)).BeginInit();
-            this.panel1.SuspendLayout();
-            this.panel2.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pic_beta)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.close_key)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.main_pic)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.main_gif)).BeginInit();
             this.SuspendLayout();
             // 
             // gunaElipse1
@@ -138,34 +138,6 @@
             this.close_app.Text = "CLOSE";
             this.close_app.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.close_app.Click += new System.EventHandler(this.close_app_Click);
-            // 
-            // settings1
-            // 
-            this.settings1.AnimationHoverSpeed = 0.07F;
-            this.settings1.AnimationSpeed = 0.03F;
-            this.settings1.BackColor = System.Drawing.Color.Transparent;
-            this.settings1.BaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(5)))), ((int)(((byte)(30)))));
-            this.settings1.BorderColor = System.Drawing.Color.Black;
-            this.settings1.DialogResult = System.Windows.Forms.DialogResult.None;
-            this.settings1.Enabled = false;
-            this.settings1.FocusedColor = System.Drawing.Color.Empty;
-            this.settings1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold);
-            this.settings1.ForeColor = System.Drawing.Color.White;
-            this.settings1.Image = ((System.Drawing.Image)(resources.GetObject("settings1.Image")));
-            this.settings1.ImageAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.settings1.ImageSize = new System.Drawing.Size(20, 20);
-            this.settings1.Location = new System.Drawing.Point(344, 16);
-            this.settings1.Name = "settings1";
-            this.settings1.OnHoverBaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(20)))), ((int)(((byte)(40)))));
-            this.settings1.OnHoverBorderColor = System.Drawing.Color.Black;
-            this.settings1.OnHoverForeColor = System.Drawing.Color.White;
-            this.settings1.OnHoverImage = null;
-            this.settings1.OnPressedColor = System.Drawing.Color.Black;
-            this.settings1.Radius = 5;
-            this.settings1.Size = new System.Drawing.Size(28, 26);
-            this.settings1.TabIndex = 36;
-            this.settings1.Visible = false;
-            this.settings1.Click += new System.EventHandler(this.settings1_Click);
             // 
             // panel_settings
             // 
@@ -206,32 +178,6 @@
             this.label5.TabIndex = 31;
             this.label5.Text = " - List update helper";
             // 
-            // Button_list_loader
-            // 
-            this.Button_list_loader.AnimationHoverSpeed = 0.07F;
-            this.Button_list_loader.AnimationSpeed = 0.03F;
-            this.Button_list_loader.BackColor = System.Drawing.Color.Transparent;
-            this.Button_list_loader.BaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(5)))), ((int)(((byte)(30)))));
-            this.Button_list_loader.BorderColor = System.Drawing.Color.Black;
-            this.Button_list_loader.DialogResult = System.Windows.Forms.DialogResult.None;
-            this.Button_list_loader.FocusedColor = System.Drawing.Color.Empty;
-            this.Button_list_loader.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold);
-            this.Button_list_loader.ForeColor = System.Drawing.Color.White;
-            this.Button_list_loader.Image = global::CloudHelper.Properties.Resources.list;
-            this.Button_list_loader.ImageAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.Button_list_loader.ImageSize = new System.Drawing.Size(30, 30);
-            this.Button_list_loader.Location = new System.Drawing.Point(26, 99);
-            this.Button_list_loader.Name = "Button_list_loader";
-            this.Button_list_loader.OnHoverBaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(20)))), ((int)(((byte)(40)))));
-            this.Button_list_loader.OnHoverBorderColor = System.Drawing.Color.Black;
-            this.Button_list_loader.OnHoverForeColor = System.Drawing.Color.White;
-            this.Button_list_loader.OnHoverImage = null;
-            this.Button_list_loader.OnPressedColor = System.Drawing.Color.Black;
-            this.Button_list_loader.Radius = 5;
-            this.Button_list_loader.Size = new System.Drawing.Size(31, 29);
-            this.Button_list_loader.TabIndex = 30;
-            this.Button_list_loader.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
             // name_sub
             // 
             this.name_sub.AutoSize = true;
@@ -242,58 +188,6 @@
             this.name_sub.Size = new System.Drawing.Size(27, 13);
             this.name_sub.TabIndex = 29;
             this.name_sub.Text = "-----";
-            // 
-            // github
-            // 
-            this.github.AnimationHoverSpeed = 0.07F;
-            this.github.AnimationSpeed = 0.03F;
-            this.github.BackColor = System.Drawing.Color.Transparent;
-            this.github.BaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(5)))), ((int)(((byte)(30)))));
-            this.github.BorderColor = System.Drawing.Color.Black;
-            this.github.DialogResult = System.Windows.Forms.DialogResult.None;
-            this.github.FocusedColor = System.Drawing.Color.Empty;
-            this.github.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold);
-            this.github.ForeColor = System.Drawing.Color.White;
-            this.github.Image = global::CloudHelper.Properties.Resources.github;
-            this.github.ImageAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.github.ImageSize = new System.Drawing.Size(30, 30);
-            this.github.Location = new System.Drawing.Point(181, 195);
-            this.github.Name = "github";
-            this.github.OnHoverBaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(20)))), ((int)(((byte)(40)))));
-            this.github.OnHoverBorderColor = System.Drawing.Color.Black;
-            this.github.OnHoverForeColor = System.Drawing.Color.White;
-            this.github.OnHoverImage = null;
-            this.github.OnPressedColor = System.Drawing.Color.Black;
-            this.github.Radius = 5;
-            this.github.Size = new System.Drawing.Size(41, 34);
-            this.github.TabIndex = 28;
-            this.github.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            // 
-            // disc
-            // 
-            this.disc.AnimationHoverSpeed = 0.07F;
-            this.disc.AnimationSpeed = 0.03F;
-            this.disc.BackColor = System.Drawing.Color.Transparent;
-            this.disc.BaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(5)))), ((int)(((byte)(30)))));
-            this.disc.BorderColor = System.Drawing.Color.Black;
-            this.disc.DialogResult = System.Windows.Forms.DialogResult.None;
-            this.disc.FocusedColor = System.Drawing.Color.Empty;
-            this.disc.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold);
-            this.disc.ForeColor = System.Drawing.Color.White;
-            this.disc.Image = global::CloudHelper.Properties.Resources.concours_discord_cartes_voeux_fortnite_france_6;
-            this.disc.ImageAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.disc.ImageSize = new System.Drawing.Size(20, 20);
-            this.disc.Location = new System.Drawing.Point(134, 195);
-            this.disc.Name = "disc";
-            this.disc.OnHoverBaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(20)))), ((int)(((byte)(40)))));
-            this.disc.OnHoverBorderColor = System.Drawing.Color.Black;
-            this.disc.OnHoverForeColor = System.Drawing.Color.White;
-            this.disc.OnHoverImage = null;
-            this.disc.OnPressedColor = System.Drawing.Color.Black;
-            this.disc.Radius = 5;
-            this.disc.Size = new System.Drawing.Size(41, 34);
-            this.disc.TabIndex = 27;
-            this.disc.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             // 
             // author
             // 
@@ -317,48 +211,6 @@
             this.label_version.TabIndex = 0;
             this.label_version.Text = "-----";
             // 
-            // settings
-            // 
-            this.settings.AnimationHoverSpeed = 0.07F;
-            this.settings.AnimationSpeed = 0.03F;
-            this.settings.BackColor = System.Drawing.Color.Transparent;
-            this.settings.BaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(5)))), ((int)(((byte)(30)))));
-            this.settings.BorderColor = System.Drawing.Color.Black;
-            this.settings.DialogResult = System.Windows.Forms.DialogResult.None;
-            this.settings.Enabled = false;
-            this.settings.FocusedColor = System.Drawing.Color.Empty;
-            this.settings.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold);
-            this.settings.ForeColor = System.Drawing.Color.White;
-            this.settings.Image = ((System.Drawing.Image)(resources.GetObject("settings.Image")));
-            this.settings.ImageAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.settings.ImageSize = new System.Drawing.Size(20, 20);
-            this.settings.Location = new System.Drawing.Point(344, 16);
-            this.settings.Name = "settings";
-            this.settings.OnHoverBaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(20)))), ((int)(((byte)(40)))));
-            this.settings.OnHoverBorderColor = System.Drawing.Color.Black;
-            this.settings.OnHoverForeColor = System.Drawing.Color.White;
-            this.settings.OnHoverImage = null;
-            this.settings.OnPressedColor = System.Drawing.Color.Black;
-            this.settings.Radius = 5;
-            this.settings.Size = new System.Drawing.Size(28, 26);
-            this.settings.TabIndex = 34;
-            this.settings.Visible = false;
-            this.settings.Click += new System.EventHandler(this.settings_Click);
-            // 
-            // main_gif
-            // 
-            this.main_gif.BackColor = System.Drawing.Color.Transparent;
-            this.main_gif.BaseColor = System.Drawing.Color.Black;
-            this.main_gif.Enabled = false;
-            this.main_gif.Image = global::CloudHelper.Properties.Resources.loader__1__out;
-            this.main_gif.Location = new System.Drawing.Point(251, 14);
-            this.main_gif.Name = "main_gif";
-            this.main_gif.Size = new System.Drawing.Size(41, 39);
-            this.main_gif.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.main_gif.TabIndex = 33;
-            this.main_gif.TabStop = false;
-            this.main_gif.Visible = false;
-            // 
             // panel_sub
             // 
             this.panel_sub.BackColor = System.Drawing.Color.Transparent;
@@ -379,20 +231,9 @@
             this.num_days.ForeColor = System.Drawing.Color.FromArgb(((int)(((byte)(170)))), ((int)(((byte)(140)))), ((int)(((byte)(0)))));
             this.num_days.Location = new System.Drawing.Point(50, 41);
             this.num_days.Name = "num_days";
-            this.num_days.Size = new System.Drawing.Size(65, 13);
+            this.num_days.Size = new System.Drawing.Size(58, 13);
             this.num_days.TabIndex = 1;
-            this.num_days.Text = "free cheat";
-            // 
-            // pic_sub
-            // 
-            this.pic_sub.BaseColor = System.Drawing.Color.White;
-            this.pic_sub.Image = global::CloudHelper.Properties.Resources.list;
-            this.pic_sub.Location = new System.Drawing.Point(3, 15);
-            this.pic_sub.Name = "pic_sub";
-            this.pic_sub.Size = new System.Drawing.Size(31, 42);
-            this.pic_sub.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pic_sub.TabIndex = 0;
-            this.pic_sub.TabStop = false;
+            this.num_days.Text = "unknown";
             // 
             // label_sub_expires_in
             // 
@@ -428,17 +269,6 @@
             this.data_update.Size = new System.Drawing.Size(58, 13);
             this.data_update.TabIndex = 1;
             this.data_update.Text = "unknown";
-            // 
-            // pic_upd
-            // 
-            this.pic_upd.BaseColor = System.Drawing.Color.White;
-            this.pic_upd.Image = global::CloudHelper.Properties.Resources.calendar;
-            this.pic_upd.Location = new System.Drawing.Point(3, 13);
-            this.pic_upd.Name = "pic_upd";
-            this.pic_upd.Size = new System.Drawing.Size(31, 42);
-            this.pic_upd.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pic_upd.TabIndex = 0;
-            this.pic_upd.TabStop = false;
             // 
             // gunaLabel1
             // 
@@ -486,45 +316,6 @@
             this.label_your_id.TabIndex = 1;
             this.label_your_id.Text = "Your ID:";
             // 
-            // pic_id
-            // 
-            this.pic_id.BaseColor = System.Drawing.Color.White;
-            this.pic_id.Image = global::CloudHelper.Properties.Resources.icon_user;
-            this.pic_id.Location = new System.Drawing.Point(4, 13);
-            this.pic_id.Name = "pic_id";
-            this.pic_id.Size = new System.Drawing.Size(31, 42);
-            this.pic_id.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pic_id.TabIndex = 0;
-            this.pic_id.TabStop = false;
-            // 
-            // start_load
-            // 
-            this.start_load.AnimationHoverSpeed = 0.07F;
-            this.start_load.AnimationSpeed = 0.03F;
-            this.start_load.BackColor = System.Drawing.Color.Transparent;
-            this.start_load.BaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(91)))), ((int)(((byte)(204)))));
-            this.start_load.BorderColor = System.Drawing.Color.Black;
-            this.start_load.DialogResult = System.Windows.Forms.DialogResult.None;
-            this.start_load.FocusedColor = System.Drawing.Color.Empty;
-            this.start_load.Font = new System.Drawing.Font("Microsoft Sans Serif", 12.75F, System.Drawing.FontStyle.Bold);
-            this.start_load.ForeColor = System.Drawing.Color.White;
-            this.start_load.Image = global::CloudHelper.Properties.Resources.start_load_images;
-            this.start_load.ImageOffsetX = 147;
-            this.start_load.ImageSize = new System.Drawing.Size(23, 23);
-            this.start_load.Location = new System.Drawing.Point(3, 183);
-            this.start_load.Name = "start_load";
-            this.start_load.OnHoverBaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(89)))), ((int)(((byte)(255)))));
-            this.start_load.OnHoverBorderColor = System.Drawing.Color.Black;
-            this.start_load.OnHoverForeColor = System.Drawing.Color.White;
-            this.start_load.OnHoverImage = null;
-            this.start_load.OnPressedColor = System.Drawing.Color.Black;
-            this.start_load.Radius = 25;
-            this.start_load.Size = new System.Drawing.Size(407, 57);
-            this.start_load.TabIndex = 28;
-            this.start_load.Text = "Start";
-            this.start_load.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
-            this.start_load.Click += new System.EventHandler(this.start_load_Click);
-            // 
             // panel_status
             // 
             this.panel_status.BackColor = System.Drawing.Color.Transparent;
@@ -541,32 +332,6 @@
             this.panel_status.TabIndex = 37;
             this.panel_status.Paint += new System.Windows.Forms.PaintEventHandler(this.panel_status_Paint);
             // 
-            // pic_on_update
-            // 
-            this.pic_on_update.BaseColor = System.Drawing.Color.White;
-            this.pic_on_update.Enabled = false;
-            this.pic_on_update.Image = global::CloudHelper.Properties.Resources.on_update;
-            this.pic_on_update.Location = new System.Drawing.Point(4, 15);
-            this.pic_on_update.Name = "pic_on_update";
-            this.pic_on_update.Size = new System.Drawing.Size(31, 42);
-            this.pic_on_update.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pic_on_update.TabIndex = 2;
-            this.pic_on_update.TabStop = false;
-            this.pic_on_update.Visible = false;
-            // 
-            // pic_undetect
-            // 
-            this.pic_undetect.BaseColor = System.Drawing.Color.White;
-            this.pic_undetect.Enabled = false;
-            this.pic_undetect.Image = global::CloudHelper.Properties.Resources.undetect;
-            this.pic_undetect.Location = new System.Drawing.Point(3, 15);
-            this.pic_undetect.Name = "pic_undetect";
-            this.pic_undetect.Size = new System.Drawing.Size(31, 42);
-            this.pic_undetect.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pic_undetect.TabIndex = 0;
-            this.pic_undetect.TabStop = false;
-            this.pic_undetect.Visible = false;
-            // 
             // status_cheat
             // 
             this.status_cheat.AutoSize = true;
@@ -578,19 +343,6 @@
             this.status_cheat.TabIndex = 1;
             this.status_cheat.Text = "unknown";
             // 
-            // pic_detect
-            // 
-            this.pic_detect.BaseColor = System.Drawing.Color.White;
-            this.pic_detect.Enabled = false;
-            this.pic_detect.Image = ((System.Drawing.Image)(resources.GetObject("pic_detect.Image")));
-            this.pic_detect.Location = new System.Drawing.Point(4, 15);
-            this.pic_detect.Name = "pic_detect";
-            this.pic_detect.Size = new System.Drawing.Size(31, 42);
-            this.pic_detect.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.pic_detect.TabIndex = 0;
-            this.pic_detect.TabStop = false;
-            this.pic_detect.Visible = false;
-            // 
             // label_cheat_status
             // 
             this.label_cheat_status.AutoSize = true;
@@ -601,19 +353,6 @@
             this.label_cheat_status.Size = new System.Drawing.Size(90, 15);
             this.label_cheat_status.TabIndex = 1;
             this.label_cheat_status.Text = "Cheat status:";
-            // 
-            // main_pic
-            // 
-            this.main_pic.BaseColor = System.Drawing.Color.White;
-            this.main_pic.Enabled = false;
-            this.main_pic.Image = global::CloudHelper.Properties.Resources.main_logo;
-            this.main_pic.Location = new System.Drawing.Point(14, -24);
-            this.main_pic.Margin = new System.Windows.Forms.Padding(2);
-            this.main_pic.Name = "main_pic";
-            this.main_pic.Size = new System.Drawing.Size(232, 138);
-            this.main_pic.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.main_pic.TabIndex = 0;
-            this.main_pic.TabStop = false;
             // 
             // user_name
             // 
@@ -661,9 +400,9 @@
             this.user_key.FocusedForeColor = System.Drawing.Color.White;
             this.user_key.Font = new System.Drawing.Font("Microsoft Sans Serif", 10F, System.Drawing.FontStyle.Bold);
             this.user_key.ForeColor = System.Drawing.Color.White;
-            this.user_key.Location = new System.Drawing.Point(5, 113);
+            this.user_key.Location = new System.Drawing.Point(5, 111);
             this.user_key.Margin = new System.Windows.Forms.Padding(2);
-            this.user_key.MaxLength = 1000;
+            this.user_key.MaxLength = 100;
             this.user_key.Name = "user_key";
             this.user_key.PasswordChar = '\0';
             this.user_key.Radius = 5;
@@ -679,7 +418,7 @@
             this.label3.Enabled = false;
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 9F, System.Drawing.FontStyle.Bold);
             this.label3.ForeColor = System.Drawing.Color.White;
-            this.label3.Location = new System.Drawing.Point(5, 99);
+            this.label3.Location = new System.Drawing.Point(5, 97);
             this.label3.Margin = new System.Windows.Forms.Padding(2, 0, 2, 0);
             this.label3.Name = "label3";
             this.label3.Size = new System.Drawing.Size(30, 15);
@@ -703,7 +442,7 @@
             this.Button_register.Image = null;
             this.Button_register.ImageOffsetX = 125;
             this.Button_register.ImageSize = new System.Drawing.Size(23, 23);
-            this.Button_register.Location = new System.Drawing.Point(20, 153);
+            this.Button_register.Location = new System.Drawing.Point(16, 153);
             this.Button_register.Name = "Button_register";
             this.Button_register.OnHoverBaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(89)))), ((int)(((byte)(255)))));
             this.Button_register.OnHoverBorderColor = System.Drawing.Color.Black;
@@ -717,34 +456,6 @@
             this.Button_register.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
             this.Button_register.Visible = false;
             this.Button_register.Click += new System.EventHandler(this.Button_register_Click);
-            // 
-            // close_pass
-            // 
-            this.close_pass.BaseColor = System.Drawing.Color.White;
-            this.close_pass.Enabled = false;
-            this.close_pass.Image = global::CloudHelper.Properties.Resources.close_pass;
-            this.close_pass.Location = new System.Drawing.Point(364, 62);
-            this.close_pass.Margin = new System.Windows.Forms.Padding(2);
-            this.close_pass.Name = "close_pass";
-            this.close_pass.Size = new System.Drawing.Size(34, 31);
-            this.close_pass.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.close_pass.TabIndex = 15;
-            this.close_pass.TabStop = false;
-            this.close_pass.Visible = false;
-            this.close_pass.Click += new System.EventHandler(this.close_pass_Click);
-            // 
-            // open_pass
-            // 
-            this.open_pass.BaseColor = System.Drawing.Color.White;
-            this.open_pass.Image = global::CloudHelper.Properties.Resources.open_pass;
-            this.open_pass.Location = new System.Drawing.Point(364, 62);
-            this.open_pass.Margin = new System.Windows.Forms.Padding(2);
-            this.open_pass.Name = "open_pass";
-            this.open_pass.Size = new System.Drawing.Size(34, 31);
-            this.open_pass.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.open_pass.TabIndex = 16;
-            this.open_pass.TabStop = false;
-            this.open_pass.Click += new System.EventHandler(this.open_pass_Click);
             // 
             // status
             // 
@@ -774,7 +485,7 @@
             this.Button_switch_register.Image = null;
             this.Button_switch_register.ImageOffsetX = 125;
             this.Button_switch_register.ImageSize = new System.Drawing.Size(23, 23);
-            this.Button_switch_register.Location = new System.Drawing.Point(212, 153);
+            this.Button_switch_register.Location = new System.Drawing.Point(207, 153);
             this.Button_switch_register.Name = "Button_switch_register";
             this.Button_switch_register.OnHoverBaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(89)))), ((int)(((byte)(255)))));
             this.Button_switch_register.OnHoverBorderColor = System.Drawing.Color.Black;
@@ -803,7 +514,7 @@
             this.Button_login.Image = null;
             this.Button_login.ImageOffsetX = 125;
             this.Button_login.ImageSize = new System.Drawing.Size(23, 23);
-            this.Button_login.Location = new System.Drawing.Point(20, 153);
+            this.Button_login.Location = new System.Drawing.Point(27, 153);
             this.Button_login.Name = "Button_login";
             this.Button_login.OnHoverBaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(89)))), ((int)(((byte)(255)))));
             this.Button_login.OnHoverBorderColor = System.Drawing.Color.Black;
@@ -846,7 +557,7 @@
             this.Button_switch_login.Image = null;
             this.Button_switch_login.ImageOffsetX = 125;
             this.Button_switch_login.ImageSize = new System.Drawing.Size(23, 23);
-            this.Button_switch_login.Location = new System.Drawing.Point(212, 153);
+            this.Button_switch_login.Location = new System.Drawing.Point(206, 153);
             this.Button_switch_login.Name = "Button_switch_login";
             this.Button_switch_login.OnHoverBaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(89)))), ((int)(((byte)(255)))));
             this.Button_switch_login.OnHoverBorderColor = System.Drawing.Color.Black;
@@ -874,43 +585,13 @@
             this.user_pass.ForeColor = System.Drawing.Color.White;
             this.user_pass.Location = new System.Drawing.Point(5, 63);
             this.user_pass.Margin = new System.Windows.Forms.Padding(2);
-            this.user_pass.MaxLength = 12;
+            this.user_pass.MaxLength = 35;
             this.user_pass.Name = "user_pass";
             this.user_pass.PasswordChar = '\0';
             this.user_pass.Radius = 5;
             this.user_pass.SelectedText = "";
             this.user_pass.Size = new System.Drawing.Size(351, 31);
             this.user_pass.TabIndex = 2;
-            // 
-            // close_key
-            // 
-            this.close_key.BaseColor = System.Drawing.Color.White;
-            this.close_key.Enabled = false;
-            this.close_key.Image = global::CloudHelper.Properties.Resources.close_pass;
-            this.close_key.Location = new System.Drawing.Point(364, 113);
-            this.close_key.Margin = new System.Windows.Forms.Padding(2);
-            this.close_key.Name = "close_key";
-            this.close_key.Size = new System.Drawing.Size(34, 31);
-            this.close_key.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.close_key.TabIndex = 24;
-            this.close_key.TabStop = false;
-            this.close_key.Visible = false;
-            this.close_key.Click += new System.EventHandler(this.close_key_Click);
-            // 
-            // open_key
-            // 
-            this.open_key.BaseColor = System.Drawing.Color.White;
-            this.open_key.Enabled = false;
-            this.open_key.Image = global::CloudHelper.Properties.Resources.open_pass;
-            this.open_key.Location = new System.Drawing.Point(364, 113);
-            this.open_key.Margin = new System.Windows.Forms.Padding(2);
-            this.open_key.Name = "open_key";
-            this.open_key.Size = new System.Drawing.Size(34, 31);
-            this.open_key.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
-            this.open_key.TabIndex = 25;
-            this.open_key.TabStop = false;
-            this.open_key.Visible = false;
-            this.open_key.Click += new System.EventHandler(this.open_key_Click);
             // 
             // panel1
             // 
@@ -930,7 +611,7 @@
             this.panel1.Controls.Add(this.close_key);
             this.panel1.Controls.Add(this.Button_switch_login);
             this.panel1.Controls.Add(this.user_pass);
-            this.panel1.Location = new System.Drawing.Point(14, 232);
+            this.panel1.Location = new System.Drawing.Point(14, 136);
             this.panel1.Name = "panel1";
             this.panel1.Size = new System.Drawing.Size(411, 240);
             this.panel1.TabIndex = 38;
@@ -951,7 +632,7 @@
             this.Button_upgrade.Image = null;
             this.Button_upgrade.ImageOffsetX = 125;
             this.Button_upgrade.ImageSize = new System.Drawing.Size(23, 23);
-            this.Button_upgrade.Location = new System.Drawing.Point(113, 153);
+            this.Button_upgrade.Location = new System.Drawing.Point(112, 153);
             this.Button_upgrade.Name = "Button_upgrade";
             this.Button_upgrade.OnHoverBaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(89)))), ((int)(((byte)(255)))));
             this.Button_upgrade.OnHoverBorderColor = System.Drawing.Color.Black;
@@ -999,8 +680,10 @@
             "Captcha(капча)",
             "Farm(ферма)",
             "Sawmill(лесоруб)",
-            "Career(карьер)"});
+            "Career(карьер)",
+            "Taxi(такси)"});
             this.choose_work.Location = new System.Drawing.Point(311, 48);
+            this.choose_work.MaxDropDownItems = 30;
             this.choose_work.Name = "choose_work";
             this.choose_work.OnHoverItemBaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(60)))), ((int)(((byte)(137)))));
             this.choose_work.OnHoverItemForeColor = System.Drawing.Color.White;
@@ -1009,6 +692,45 @@
             this.choose_work.TabIndex = 40;
             this.choose_work.Visible = false;
             this.choose_work.SelectedIndexChanged += new System.EventHandler(this.choose_work_SelectedIndexChanged);
+            // 
+            // pic_id
+            // 
+            this.pic_id.BaseColor = System.Drawing.Color.White;
+            this.pic_id.Image = global::CloudHelper.Properties.Resources.icon_user;
+            this.pic_id.Location = new System.Drawing.Point(4, 13);
+            this.pic_id.Name = "pic_id";
+            this.pic_id.Size = new System.Drawing.Size(31, 42);
+            this.pic_id.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pic_id.TabIndex = 0;
+            this.pic_id.TabStop = false;
+            // 
+            // start_load
+            // 
+            this.start_load.AnimationHoverSpeed = 0.07F;
+            this.start_load.AnimationSpeed = 0.03F;
+            this.start_load.BackColor = System.Drawing.Color.Transparent;
+            this.start_load.BaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(91)))), ((int)(((byte)(204)))));
+            this.start_load.BorderColor = System.Drawing.Color.Black;
+            this.start_load.DialogResult = System.Windows.Forms.DialogResult.None;
+            this.start_load.FocusedColor = System.Drawing.Color.Empty;
+            this.start_load.Font = new System.Drawing.Font("Microsoft Sans Serif", 12.75F, System.Drawing.FontStyle.Bold);
+            this.start_load.ForeColor = System.Drawing.Color.White;
+            this.start_load.Image = global::CloudHelper.Properties.Resources.start_load_images;
+            this.start_load.ImageOffsetX = 147;
+            this.start_load.ImageSize = new System.Drawing.Size(23, 23);
+            this.start_load.Location = new System.Drawing.Point(3, 183);
+            this.start_load.Name = "start_load";
+            this.start_load.OnHoverBaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(89)))), ((int)(((byte)(255)))));
+            this.start_load.OnHoverBorderColor = System.Drawing.Color.Black;
+            this.start_load.OnHoverForeColor = System.Drawing.Color.White;
+            this.start_load.OnHoverImage = null;
+            this.start_load.OnPressedColor = System.Drawing.Color.Black;
+            this.start_load.Radius = 25;
+            this.start_load.Size = new System.Drawing.Size(407, 57);
+            this.start_load.TabIndex = 28;
+            this.start_load.Text = "Start";
+            this.start_load.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.start_load.Click += new System.EventHandler(this.start_load_Click);
             // 
             // pic_beta
             // 
@@ -1023,21 +745,303 @@
             this.pic_beta.TabStop = false;
             this.pic_beta.Visible = false;
             // 
+            // pic_on_update
+            // 
+            this.pic_on_update.BaseColor = System.Drawing.Color.White;
+            this.pic_on_update.Enabled = false;
+            this.pic_on_update.Image = global::CloudHelper.Properties.Resources.on_update;
+            this.pic_on_update.Location = new System.Drawing.Point(4, 15);
+            this.pic_on_update.Name = "pic_on_update";
+            this.pic_on_update.Size = new System.Drawing.Size(31, 42);
+            this.pic_on_update.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pic_on_update.TabIndex = 2;
+            this.pic_on_update.TabStop = false;
+            this.pic_on_update.Visible = false;
+            // 
+            // pic_undetect
+            // 
+            this.pic_undetect.BaseColor = System.Drawing.Color.White;
+            this.pic_undetect.Enabled = false;
+            this.pic_undetect.Image = global::CloudHelper.Properties.Resources.undetect;
+            this.pic_undetect.Location = new System.Drawing.Point(3, 15);
+            this.pic_undetect.Name = "pic_undetect";
+            this.pic_undetect.Size = new System.Drawing.Size(31, 42);
+            this.pic_undetect.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pic_undetect.TabIndex = 0;
+            this.pic_undetect.TabStop = false;
+            this.pic_undetect.Visible = false;
+            // 
+            // pic_detect
+            // 
+            this.pic_detect.BaseColor = System.Drawing.Color.White;
+            this.pic_detect.Enabled = false;
+            this.pic_detect.Image = ((System.Drawing.Image)(resources.GetObject("pic_detect.Image")));
+            this.pic_detect.Location = new System.Drawing.Point(4, 15);
+            this.pic_detect.Name = "pic_detect";
+            this.pic_detect.Size = new System.Drawing.Size(31, 42);
+            this.pic_detect.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pic_detect.TabIndex = 0;
+            this.pic_detect.TabStop = false;
+            this.pic_detect.Visible = false;
+            // 
+            // pic_upd
+            // 
+            this.pic_upd.BaseColor = System.Drawing.Color.White;
+            this.pic_upd.Image = global::CloudHelper.Properties.Resources.calendar;
+            this.pic_upd.Location = new System.Drawing.Point(3, 13);
+            this.pic_upd.Name = "pic_upd";
+            this.pic_upd.Size = new System.Drawing.Size(31, 42);
+            this.pic_upd.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pic_upd.TabIndex = 0;
+            this.pic_upd.TabStop = false;
+            // 
+            // pic_sub
+            // 
+            this.pic_sub.BaseColor = System.Drawing.Color.White;
+            this.pic_sub.Image = global::CloudHelper.Properties.Resources.list;
+            this.pic_sub.Location = new System.Drawing.Point(3, 15);
+            this.pic_sub.Name = "pic_sub";
+            this.pic_sub.Size = new System.Drawing.Size(31, 42);
+            this.pic_sub.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.pic_sub.TabIndex = 0;
+            this.pic_sub.TabStop = false;
+            // 
+            // Button_list_loader
+            // 
+            this.Button_list_loader.AnimationHoverSpeed = 0.07F;
+            this.Button_list_loader.AnimationSpeed = 0.03F;
+            this.Button_list_loader.BackColor = System.Drawing.Color.Transparent;
+            this.Button_list_loader.BaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(5)))), ((int)(((byte)(30)))));
+            this.Button_list_loader.BorderColor = System.Drawing.Color.Black;
+            this.Button_list_loader.DialogResult = System.Windows.Forms.DialogResult.None;
+            this.Button_list_loader.FocusedColor = System.Drawing.Color.Empty;
+            this.Button_list_loader.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold);
+            this.Button_list_loader.ForeColor = System.Drawing.Color.White;
+            this.Button_list_loader.Image = global::CloudHelper.Properties.Resources.list;
+            this.Button_list_loader.ImageAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.Button_list_loader.ImageSize = new System.Drawing.Size(30, 30);
+            this.Button_list_loader.Location = new System.Drawing.Point(26, 99);
+            this.Button_list_loader.Name = "Button_list_loader";
+            this.Button_list_loader.OnHoverBaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(20)))), ((int)(((byte)(40)))));
+            this.Button_list_loader.OnHoverBorderColor = System.Drawing.Color.Black;
+            this.Button_list_loader.OnHoverForeColor = System.Drawing.Color.White;
+            this.Button_list_loader.OnHoverImage = null;
+            this.Button_list_loader.OnPressedColor = System.Drawing.Color.Black;
+            this.Button_list_loader.Radius = 5;
+            this.Button_list_loader.Size = new System.Drawing.Size(31, 29);
+            this.Button_list_loader.TabIndex = 30;
+            this.Button_list_loader.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            // 
+            // github
+            // 
+            this.github.AnimationHoverSpeed = 0.07F;
+            this.github.AnimationSpeed = 0.03F;
+            this.github.BackColor = System.Drawing.Color.Transparent;
+            this.github.BaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(5)))), ((int)(((byte)(30)))));
+            this.github.BorderColor = System.Drawing.Color.Black;
+            this.github.DialogResult = System.Windows.Forms.DialogResult.None;
+            this.github.FocusedColor = System.Drawing.Color.Empty;
+            this.github.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold);
+            this.github.ForeColor = System.Drawing.Color.White;
+            this.github.Image = global::CloudHelper.Properties.Resources.telegram;
+            this.github.ImageAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.github.ImageSize = new System.Drawing.Size(22, 22);
+            this.github.Location = new System.Drawing.Point(181, 195);
+            this.github.Name = "github";
+            this.github.OnHoverBaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(20)))), ((int)(((byte)(40)))));
+            this.github.OnHoverBorderColor = System.Drawing.Color.Black;
+            this.github.OnHoverForeColor = System.Drawing.Color.White;
+            this.github.OnHoverImage = null;
+            this.github.OnPressedColor = System.Drawing.Color.Black;
+            this.github.Radius = 5;
+            this.github.Size = new System.Drawing.Size(41, 34);
+            this.github.TabIndex = 28;
+            this.github.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.github.Click += new System.EventHandler(this.github_Click);
+            // 
+            // disc
+            // 
+            this.disc.AnimationHoverSpeed = 0.07F;
+            this.disc.AnimationSpeed = 0.03F;
+            this.disc.BackColor = System.Drawing.Color.Transparent;
+            this.disc.BaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(5)))), ((int)(((byte)(30)))));
+            this.disc.BorderColor = System.Drawing.Color.Black;
+            this.disc.DialogResult = System.Windows.Forms.DialogResult.None;
+            this.disc.FocusedColor = System.Drawing.Color.Empty;
+            this.disc.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold);
+            this.disc.ForeColor = System.Drawing.Color.White;
+            this.disc.Image = global::CloudHelper.Properties.Resources.concours_discord_cartes_voeux_fortnite_france_6;
+            this.disc.ImageAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.disc.ImageSize = new System.Drawing.Size(20, 20);
+            this.disc.Location = new System.Drawing.Point(134, 195);
+            this.disc.Name = "disc";
+            this.disc.OnHoverBaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(20)))), ((int)(((byte)(40)))));
+            this.disc.OnHoverBorderColor = System.Drawing.Color.Black;
+            this.disc.OnHoverForeColor = System.Drawing.Color.White;
+            this.disc.OnHoverImage = null;
+            this.disc.OnPressedColor = System.Drawing.Color.Black;
+            this.disc.Radius = 5;
+            this.disc.Size = new System.Drawing.Size(41, 34);
+            this.disc.TabIndex = 27;
+            this.disc.TextAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.disc.Click += new System.EventHandler(this.disc_Click);
+            // 
+            // close_pass
+            // 
+            this.close_pass.BaseColor = System.Drawing.Color.White;
+            this.close_pass.Enabled = false;
+            this.close_pass.Image = global::CloudHelper.Properties.Resources.close_pass;
+            this.close_pass.Location = new System.Drawing.Point(364, 62);
+            this.close_pass.Margin = new System.Windows.Forms.Padding(2);
+            this.close_pass.Name = "close_pass";
+            this.close_pass.Size = new System.Drawing.Size(34, 31);
+            this.close_pass.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.close_pass.TabIndex = 15;
+            this.close_pass.TabStop = false;
+            this.close_pass.Visible = false;
+            this.close_pass.Click += new System.EventHandler(this.close_pass_Click);
+            // 
+            // open_pass
+            // 
+            this.open_pass.BaseColor = System.Drawing.Color.White;
+            this.open_pass.Image = global::CloudHelper.Properties.Resources.open_pass;
+            this.open_pass.Location = new System.Drawing.Point(364, 62);
+            this.open_pass.Margin = new System.Windows.Forms.Padding(2);
+            this.open_pass.Name = "open_pass";
+            this.open_pass.Size = new System.Drawing.Size(34, 31);
+            this.open_pass.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.open_pass.TabIndex = 16;
+            this.open_pass.TabStop = false;
+            this.open_pass.Click += new System.EventHandler(this.open_pass_Click);
+            // 
+            // open_key
+            // 
+            this.open_key.BaseColor = System.Drawing.Color.White;
+            this.open_key.Enabled = false;
+            this.open_key.Image = global::CloudHelper.Properties.Resources.open_pass;
+            this.open_key.Location = new System.Drawing.Point(364, 111);
+            this.open_key.Margin = new System.Windows.Forms.Padding(2);
+            this.open_key.Name = "open_key";
+            this.open_key.Size = new System.Drawing.Size(34, 31);
+            this.open_key.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.open_key.TabIndex = 25;
+            this.open_key.TabStop = false;
+            this.open_key.Visible = false;
+            this.open_key.Click += new System.EventHandler(this.open_key_Click);
+            // 
+            // close_key
+            // 
+            this.close_key.BaseColor = System.Drawing.Color.White;
+            this.close_key.Enabled = false;
+            this.close_key.Image = global::CloudHelper.Properties.Resources.close_pass;
+            this.close_key.Location = new System.Drawing.Point(364, 111);
+            this.close_key.Margin = new System.Windows.Forms.Padding(2);
+            this.close_key.Name = "close_key";
+            this.close_key.Size = new System.Drawing.Size(34, 31);
+            this.close_key.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.close_key.TabIndex = 24;
+            this.close_key.TabStop = false;
+            this.close_key.Visible = false;
+            this.close_key.Click += new System.EventHandler(this.close_key_Click);
+            // 
+            // main_pic
+            // 
+            this.main_pic.BaseColor = System.Drawing.Color.White;
+            this.main_pic.Enabled = false;
+            this.main_pic.Image = global::CloudHelper.Properties.Resources.main_logo;
+            this.main_pic.Location = new System.Drawing.Point(14, -24);
+            this.main_pic.Margin = new System.Windows.Forms.Padding(2);
+            this.main_pic.Name = "main_pic";
+            this.main_pic.Size = new System.Drawing.Size(232, 138);
+            this.main_pic.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.main_pic.TabIndex = 0;
+            this.main_pic.TabStop = false;
+            // 
+            // settings1
+            // 
+            this.settings1.AnimationHoverSpeed = 0.07F;
+            this.settings1.AnimationSpeed = 0.03F;
+            this.settings1.BackColor = System.Drawing.Color.Transparent;
+            this.settings1.BaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(5)))), ((int)(((byte)(30)))));
+            this.settings1.BorderColor = System.Drawing.Color.Black;
+            this.settings1.DialogResult = System.Windows.Forms.DialogResult.None;
+            this.settings1.Enabled = false;
+            this.settings1.FocusedColor = System.Drawing.Color.Empty;
+            this.settings1.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold);
+            this.settings1.ForeColor = System.Drawing.Color.White;
+            this.settings1.Image = ((System.Drawing.Image)(resources.GetObject("settings1.Image")));
+            this.settings1.ImageAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.settings1.ImageSize = new System.Drawing.Size(20, 20);
+            this.settings1.Location = new System.Drawing.Point(344, 16);
+            this.settings1.Name = "settings1";
+            this.settings1.OnHoverBaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(20)))), ((int)(((byte)(40)))));
+            this.settings1.OnHoverBorderColor = System.Drawing.Color.Black;
+            this.settings1.OnHoverForeColor = System.Drawing.Color.White;
+            this.settings1.OnHoverImage = null;
+            this.settings1.OnPressedColor = System.Drawing.Color.Black;
+            this.settings1.Radius = 5;
+            this.settings1.Size = new System.Drawing.Size(28, 26);
+            this.settings1.TabIndex = 36;
+            this.settings1.Visible = false;
+            this.settings1.Click += new System.EventHandler(this.settings1_Click);
+            // 
+            // settings
+            // 
+            this.settings.AnimationHoverSpeed = 0.07F;
+            this.settings.AnimationSpeed = 0.03F;
+            this.settings.BackColor = System.Drawing.Color.Transparent;
+            this.settings.BaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(5)))), ((int)(((byte)(30)))));
+            this.settings.BorderColor = System.Drawing.Color.Black;
+            this.settings.DialogResult = System.Windows.Forms.DialogResult.None;
+            this.settings.Enabled = false;
+            this.settings.FocusedColor = System.Drawing.Color.Empty;
+            this.settings.Font = new System.Drawing.Font("Microsoft Sans Serif", 8F, System.Drawing.FontStyle.Bold);
+            this.settings.ForeColor = System.Drawing.Color.White;
+            this.settings.Image = ((System.Drawing.Image)(resources.GetObject("settings.Image")));
+            this.settings.ImageAlign = System.Windows.Forms.HorizontalAlignment.Center;
+            this.settings.ImageSize = new System.Drawing.Size(20, 20);
+            this.settings.Location = new System.Drawing.Point(344, 16);
+            this.settings.Name = "settings";
+            this.settings.OnHoverBaseColor = System.Drawing.Color.FromArgb(((int)(((byte)(0)))), ((int)(((byte)(20)))), ((int)(((byte)(40)))));
+            this.settings.OnHoverBorderColor = System.Drawing.Color.Black;
+            this.settings.OnHoverForeColor = System.Drawing.Color.White;
+            this.settings.OnHoverImage = null;
+            this.settings.OnPressedColor = System.Drawing.Color.Black;
+            this.settings.Radius = 5;
+            this.settings.Size = new System.Drawing.Size(28, 26);
+            this.settings.TabIndex = 34;
+            this.settings.Visible = false;
+            this.settings.Click += new System.EventHandler(this.settings_Click);
+            // 
+            // main_gif
+            // 
+            this.main_gif.BackColor = System.Drawing.Color.Transparent;
+            this.main_gif.BaseColor = System.Drawing.Color.Black;
+            this.main_gif.Enabled = false;
+            this.main_gif.Image = global::CloudHelper.Properties.Resources.loader__1__out;
+            this.main_gif.Location = new System.Drawing.Point(251, 12);
+            this.main_gif.Name = "main_gif";
+            this.main_gif.Size = new System.Drawing.Size(54, 50);
+            this.main_gif.SizeMode = System.Windows.Forms.PictureBoxSizeMode.Zoom;
+            this.main_gif.TabIndex = 33;
+            this.main_gif.TabStop = false;
+            this.main_gif.Visible = false;
+            // 
             // Login
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.Black;
-            this.ClientSize = new System.Drawing.Size(876, 529);
+            this.ClientSize = new System.Drawing.Size(476, 365);
+            this.Controls.Add(this.panel2);
             this.Controls.Add(this.panel_settings);
+            this.Controls.Add(this.panel1);
+            this.Controls.Add(this.main_pic);
             this.Controls.Add(this.choose_work);
             this.Controls.Add(this.settings1);
             this.Controls.Add(this.settings);
             this.Controls.Add(this.main_gif);
             this.Controls.Add(this.close_app);
-            this.Controls.Add(this.panel2);
-            this.Controls.Add(this.panel1);
-            this.Controls.Add(this.main_pic);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.None;
             this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
             this.Margin = new System.Windows.Forms.Padding(2);
@@ -1047,30 +1051,30 @@
             this.Load += new System.EventHandler(this.Login_Load);
             this.panel_settings.ResumeLayout(false);
             this.panel_settings.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.main_gif)).EndInit();
             this.panel_sub.ResumeLayout(false);
             this.panel_sub.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pic_sub)).EndInit();
             this.panel_last_upd.ResumeLayout(false);
             this.panel_last_upd.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pic_upd)).EndInit();
             this.panel_ID.ResumeLayout(false);
             this.panel_ID.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pic_id)).EndInit();
             this.panel_status.ResumeLayout(false);
             this.panel_status.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.pic_on_update)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pic_undetect)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.pic_detect)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.main_pic)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.close_pass)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.open_pass)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.close_key)).EndInit();
-            ((System.ComponentModel.ISupportInitialize)(this.open_key)).EndInit();
             this.panel1.ResumeLayout(false);
             this.panel1.PerformLayout();
             this.panel2.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.pic_id)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pic_beta)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pic_on_update)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pic_undetect)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pic_detect)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pic_upd)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.pic_sub)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.close_pass)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.open_pass)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.open_key)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.close_key)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.main_pic)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.main_gif)).EndInit();
             this.ResumeLayout(false);
 
         }

@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\Code\\01 GITHUB\\CloudHelper\\CloudHelper\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A2A1D1-8138-457B-B2E7-AF5718E213BF}|CloudHelper\\CloudHelper.csproj|f:\\code\\01 github\\cloudhelper\\cloudhelper\\cloudhelper\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A2A1D1-8138-457B-B2E7-AF5718E213BF}|CloudHelper\\CloudHelper.csproj|solutionrelative:cloudhelper\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A2A1D1-8138-457B-B2E7-AF5718E213BF}|CloudHelper\\CloudHelper.csproj|F:\\Code\\01 GITHUB\\CloudHelper\\CloudHelper\\cloudhelper\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{A1A2A1D1-8138-457B-B2E7-AF5718E213BF}|CloudHelper\\CloudHelper.csproj|solutionrelative:cloudhelper\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A2A1D1-8138-457B-B2E7-AF5718E213BF}|CloudHelper\\CloudHelper.csproj|F:\\Code\\01 GITHUB\\CloudHelper\\CloudHelper\\cloudhelper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A2A1D1-8138-457B-B2E7-AF5718E213BF}|CloudHelper\\CloudHelper.csproj|solutionrelative:cloudhelper\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A2A1D1-8138-457B-B2E7-AF5718E213BF}|CloudHelper\\CloudHelper.csproj|F:\\Code\\01 GITHUB\\CloudHelper\\CloudHelper\\cloudhelper\\zatupok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A1A2A1D1-8138-457B-B2E7-AF5718E213BF}|CloudHelper\\CloudHelper.csproj|solutionrelative:cloudhelper\\zatupok.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A1A2A1D1-8138-457B-B2E7-AF5718E213BF}|CloudHelper\\CloudHelper.csproj|F:\\Code\\01 GITHUB\\CloudHelper\\CloudHelper\\cloudhelper\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{A1A2A1D1-8138-457B-B2E7-AF5718E213BF}|CloudHelper\\CloudHelper.csproj|solutionrelative:cloudhelper\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|CloudHelper||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs",
+              "DocumentMoniker": "F:\\Code\\01 GITHUB\\CloudHelper\\CloudHelper\\CloudHelper\\Login.cs",
+              "RelativeDocumentMoniker": "CloudHelper\\Login.cs",
+              "ToolTip": "F:\\Code\\01 GITHUB\\CloudHelper\\CloudHelper\\CloudHelper\\Login.cs",
+              "RelativeToolTip": "CloudHelper\\Login.cs",
+              "ViewState": "AgIAAGkBAAAAAAAAAAAkwIsBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T00:37:57.476Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "F:\\Code\\01 GITHUB\\CloudHelper\\CloudHelper\\CloudHelper\\Login.cs",
+              "RelativeDocumentMoniker": "CloudHelper\\Login.cs",
+              "ToolTip": "F:\\Code\\01 GITHUB\\CloudHelper\\CloudHelper\\CloudHelper\\Login.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "CloudHelper\\Login.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T00:37:30.414Z",
+              "IsPinned": true
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "zatupok.cs",
+              "DocumentMoniker": "F:\\Code\\01 GITHUB\\CloudHelper\\CloudHelper\\CloudHelper\\zatupok.cs",
+              "RelativeDocumentMoniker": "CloudHelper\\zatupok.cs",
+              "ToolTip": "F:\\Code\\01 GITHUB\\CloudHelper\\CloudHelper\\CloudHelper\\zatupok.cs",
+              "RelativeToolTip": "CloudHelper\\zatupok.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T02:13:10.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CloudHelper",
+              "DocumentMoniker": "F:\\Code\\01 GITHUB\\CloudHelper\\CloudHelper\\CloudHelper\\CloudHelper.csproj",
+              "RelativeDocumentMoniker": "CloudHelper\\CloudHelper.csproj",
+              "ToolTip": "F:\\Code\\01 GITHUB\\CloudHelper\\CloudHelper\\CloudHelper\\CloudHelper.csproj",
+              "RelativeToolTip": "CloudHelper\\CloudHelper.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-02-14T02:28:55.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.config",
+              "DocumentMoniker": "F:\\Code\\01 GITHUB\\CloudHelper\\CloudHelper\\CloudHelper\\App.config",
+              "RelativeDocumentMoniker": "CloudHelper\\App.config",
+              "ToolTip": "F:\\Code\\01 GITHUB\\CloudHelper\\CloudHelper\\CloudHelper\\App.config",
+              "RelativeToolTip": "CloudHelper\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-02-14T02:28:42.296Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\Code\\01 GITHUB\\CloudHelper\\CloudHelper\\CloudHelper\\Program.cs",
+              "RelativeDocumentMoniker": "CloudHelper\\Program.cs",
+              "ToolTip": "F:\\Code\\01 GITHUB\\CloudHelper\\CloudHelper\\CloudHelper\\Program.cs",
+              "RelativeToolTip": "CloudHelper\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-14T02:06:46.118Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
